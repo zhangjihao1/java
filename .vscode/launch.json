@@ -3,6 +3,20 @@
     "configurations": [
       {
         "type": "java",
+        "name": "TemplatePatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.TemplatePattern.TemplatePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "StrategyPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.StrategyPattern.StrategyPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "FlyweightPatternDemo",
         "request": "launch",
         "mainClass": "org.example.FlyweightPattern.FlyweightPatternDemo",
